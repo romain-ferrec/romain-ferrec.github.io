@@ -8,8 +8,9 @@
         - href: developpement/patrons-de-conceptions/template-method.md
     - name: T-SQL
       items:
-        - href: developpement/tsql/fonctions-integrees.md
-        - href: developpement/tsql/jointures.md
+        - href: developpement/tsql/fonctions-integrees-basiques.md
+        - href: developpement/tsql/fonctions-de-fenetrage.md
+        - href: developpement/tsql/jointures-et-operateurs-densembles.md
         - href: developpement/tsql/modification-de-donnees.md
     - name: .NET
       items:
