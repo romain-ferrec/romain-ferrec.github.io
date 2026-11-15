@@ -12,6 +12,7 @@
         - href: developpement/tsql/fonctions-de-fenetrage.md
         - href: developpement/tsql/jointures-et-operateurs-densembles.md
         - href: developpement/tsql/modification-de-donnees.md
+        - href: developpement/tsql/transformation-de-donnees.md
     - name: .NET
       items:
         - href: developpement/dotnet/asynchronisme.md
