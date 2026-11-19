@@ -1,32 +1,30 @@
 - name: Développement
+- name: Patrons de conceptions
   items:
-    - name: Patrons de conceptions
+    - href: developpement/patrons-de-conceptions/adapter.md
+    - href: developpement/patrons-de-conceptions/facade.md
+    - href: developpement/patrons-de-conceptions/singleton.md
+    - href: developpement/patrons-de-conceptions/template-method.md
+- name: Transact-SQL
+  items:
+    - href: developpement/tsql/fonctions-integrees-basiques.md
+    - href: developpement/tsql/fonctions-de-fenetrage.md
+    - href: developpement/tsql/jointures-et-operateurs-densembles.md
+    - href: developpement/tsql/modification-de-donnees.md
+    - href: developpement/tsql/transformation-de-donnees.md
+- name: .NET
+  items:
+    - href: developpement/dotnet/asynchronisme.md
+    - name: ASP
       items:
-        - href: developpement/patrons-de-conceptions/adapter.md
-        - href: developpement/patrons-de-conceptions/facade.md
-        - href: developpement/patrons-de-conceptions/singleton.md
-        - href: developpement/patrons-de-conceptions/template-method.md
-    - name: T-SQL
-      items:
-        - href: developpement/tsql/fonctions-integrees-basiques.md
-        - href: developpement/tsql/fonctions-de-fenetrage.md
-        - href: developpement/tsql/jointures-et-operateurs-densembles.md
-        - href: developpement/tsql/modification-de-donnees.md
-        - href: developpement/tsql/transformation-de-donnees.md
-    - name: .NET
-      items:
-        - href: developpement/dotnet/asynchronisme.md
-        - name: ASP
-          items:
-            - href: developpement/dotnet/asp/validation-de-modeles.md
-            - href: developpement/dotnet/asp/creer-un-controleur-api-rest.md
+        - href: developpement/dotnet/asp/validation-de-modeles.md
+        - href: developpement/dotnet/asp/creer-un-controleur-api-rest.md
+        - href: developpement/dotnet/asp/intergiciels.md
 - name: Administration système
+- name: Windows
   items:
-    - name: Windows
-      items:
-        - href: administration-systeme/windows/chiffrement-bitlocker.md
-    - name: Powershell
-      items:
-        - href: administration-systeme/powershell/dossiers-et-fichiers.md
-        
-        - href: administration-systeme/powershell/processus-et-services.md
+    - href: administration-systeme/windows/chiffrement-bitlocker.md
+- name: Powershell
+  items:
+    - href: administration-systeme/powershell/dossiers-et-fichiers.md    
+    - href: administration-systeme/powershell/processus-et-services.md
